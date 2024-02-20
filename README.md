@@ -2,6 +2,7 @@
 ### A true dark theme for TexStudio
 #### Why?
 I want learn much more about LaTeX and i need my eyes safe.
+
 So this is a true black theme for you with a good configuration of colors.
 ##### Enjoy!
 
